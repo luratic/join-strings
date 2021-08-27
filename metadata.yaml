@@ -1,0 +1,6 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/variables/join-strings/"
+versions:
+  # Latest version
+  - sha: dea727aa31a4daed952cbab9be49840ec6e4058f
+    changeNotes: Initial release.
